@@ -1,0 +1,92 @@
+body {
+background-color: black;
+width: 790px;
+margin: auto; }
+
+	#head {
+	width: 790px;
+	height: 163px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	background-image: url("banniere/fantasticfigurines2.jpg"); }
+
+	#menu {
+	float: left; }
+
+		#menu a {
+		display: block;
+		text-decoration: none;
+		background: url("fond.png");
+		color: white;
+		text-align: center;
+		height: 37px;
+		width: 120px;
+		padding-top: 18px;
+		font: 19px center; }
+
+		#menu a:hover {
+		background-position: -120px 0px; }
+
+		a:active, a:focus {
+		outline: none; }
+
+	#corps {
+	color: white;
+	margin-left: 137px;
+	margin-bottom: 20px;
+	text-align: center; }
+	
+p, ul, h3, dd, dt, dl, ol {
+text-align: justify;}
+
+		#corps a {
+		color: white; }
+
+		#corps a:hover {
+		color: red; }
+
+			#corps a img {
+			border: none; }
+
+	#encours {
+	margin: 0px; }
+	
+	#div p {
+	text-align: center;}
+	
+	#div span, #div a {
+	text-decoration: underline;	}
+	
+	#erreur {
+	color: red;}
+
+.image {
+float: left;
+margin-right: 7px; }
+
+.fig {
+color: red; }
+
+.sculpture {
+color: gold; }
+
+.stage {
+color: cyan; }
+
+.titre {
+font-size: 1.3em;
+vertical-align: bottom;
+height: 70px; }
+
+td {
+width: 215px; }
+
+.tuto {
+width: 430px;
+text-align: justify; }
+
+.float {
+clear: both; }
+
+fieldset {
+-moz-border-radius: 10px;}

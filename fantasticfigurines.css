@@ -1,0 +1,11 @@
+body {
+background-color: black;
+width: 790px;
+margin: auto; }
+
+img {
+border: none;
+margin-top: 20px; }
+
+a:active, a:focus {
+outline: none; }
